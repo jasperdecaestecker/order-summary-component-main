@@ -6,6 +6,10 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 I kept things simple and only use basic css and html. There is some degree of flexbox and css grid used to center the card and create the "plan section".
 
+Feedback? [Feedback page](https://www.frontendmentor.io/solutions/order-summary-using-basic-css-html-no-framework-OvHOGSAf5)
+
+[Live Page - Netlify](https://peaceful-babbage-d50c0a.netlify.app/)
+
 ## Useful resources
 
 As always when it comes to flexbox and grid, these 2 resources are super handy to have at your side 
